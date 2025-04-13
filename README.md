@@ -12,15 +12,19 @@ docker-3tier-app/
 ├── frontend/
 
 │   ├── Dockerfile
+
 │   └── index.html
 
 ├── backend/
 
 │   ├── Dockerfile
+
 │   ├── app.py
+
 │   └── requirements.txt
 
 ├── db/
+
 │   └── init.sql
 
 
