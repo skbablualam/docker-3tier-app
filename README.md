@@ -19,7 +19,7 @@ A simple 3-tier app using Docker Compose:
 ## 🚀 How to Run
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 # **Once the containers are up and running, you can access the services:**
