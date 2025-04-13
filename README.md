@@ -30,7 +30,7 @@ Backend API: http://localhost:5000
 
 # 🖼️ Screenshots
 
-
+![216EDBE6-3595-48A0-97E5-278C848F7A00](https://github.com/user-attachments/assets/65f19cb1-e659-4b93-8577-8128035b6324)
 
 
 # 🙌 Author
