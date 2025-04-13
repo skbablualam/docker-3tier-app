@@ -25,12 +25,13 @@ docker compose up --build
 
 Frontend: http://localhost:8080
 
+![image](https://github.com/user-attachments/assets/b5c41320-9bf0-4354-92ec-243f9f5e49bf)
+
+
 Backend API: http://localhost:5000
 
 # 🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/ff25272c-0389-420c-9812-15cb7e81d0e0)
-
-![216EDBE6-3595-48A0-97E5-278C848F7A00](https://github.com/user-attachments/assets/65f19cb1-e659-4b93-8577-8128035b6324)
 
 
 # 🙌 Author
