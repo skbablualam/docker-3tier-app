@@ -31,7 +31,7 @@ Frontend: http://localhost:8080
 Backend API: http://localhost:5000
 
 # 🖼️ Screenshots
-![image](https://github.com/user-attachments/assets/ff25272c-0389-420c-9812-15cb7e81d0e0)
+![F74A7882-021B-4207-80FE-FB9EF50D59D9](https://github.com/user-attachments/assets/67259424-8b0e-40b3-9715-dba21fbaf486)
 
 
 # 🙌 Author
