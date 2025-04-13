@@ -30,12 +30,3 @@ docker-3tier-app/
 ```bash
 docker-compose up --build
 
-**# Access**
-
-- Frontend: http://localhost:8080
-
-- Backend API: http://localhost:5000
-
-## 🙌 Author
-Sk Bablu Alam
-
